@@ -1,0 +1,211 @@
+<<2021-04-09 20:44:45.692250>> Server is starting.
+<<2021-04-09 20:45:07.165609>> Listening to the port (9090)
+<<2021-04-09 20:45:16.456082>> Connected to ('127.0.0.1', 4082)
+<<2021-04-09 20:45:22.080091>> Accepting data: Hi
+<<2021-04-09 20:45:22.127038>> Sending data: Hi!!!
+<<2021-04-09 20:45:28.481965>> Accepting data: Oleg
+<<2021-04-09 20:45:28.482986>> Sending data: Oleg!!!
+<<2021-04-09 20:45:30.840657>> Accepting data: lol
+<<2021-04-09 20:45:30.841898>> Sending data: lol!!!
+<<2021-04-09 20:45:37.834875>> Client disconnected.
+<<2021-04-09 20:45:37.836870>> Closing connection.
+<<2021-04-09 20:47:59.351055>> Server is starting.
+<<2021-04-09 20:48:15.115854>> Listening to the port (9090)
+<<2021-04-09 20:48:19.511342>> Connected to ('127.0.0.1', 4097)
+<<2021-04-09 20:48:22.184068>> Accepting data: Oleg
+<<2021-04-09 20:48:22.185033>> Sending data: Oleg!!!
+<<2021-04-09 20:48:24.780906>> Accepting data: hi
+<<2021-04-09 20:48:24.782907>> Sending data: hi!!!
+<<2021-04-09 20:48:28.307254>> Accepting data: KK
+<<2021-04-09 20:48:28.308278>> Sending data: KK!!!
+<<2021-04-09 20:48:30.518983>> Accepting data: 4
+<<2021-04-09 20:48:30.519980>> Sending data: 4!!!
+<<2021-04-09 20:48:34.474390>> Client disconnected.
+<<2021-04-09 20:48:34.475383>> Listening to the port (9090)
+<<2021-04-09 20:48:53.297714>> Connected to ('127.0.0.1', 4098)
+<<2021-04-09 20:49:02.140068>> Accepting data: ol
+<<2021-04-09 20:49:02.141065>> Sending data: ol!!!
+<<2021-04-09 20:49:07.173767>> Closing connection.
+<<2021-05-11 22:27:55.967720>> Server is starting.
+<<2021-05-11 22:28:18.292958>> Listening to the port (9090)
+<<2021-05-11 22:28:59.495890>> Connected to 127.0.0.1:1243
+<<2021-05-11 22:30:15.296470>> Accepting data: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 22:32:08.303138>> Server is starting.
+<<2021-05-11 22:32:12.060758>> Listening to the port (9090)
+<<2021-05-11 22:32:31.251171>> Connected to 127.0.0.1:1249
+<<2021-05-11 22:32:38.237199>> Accepting data: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 22:36:22.853986>> Server is starting.
+<<2021-05-11 22:36:44.233363>> Listening to the port (9090)
+<<2021-05-11 22:36:55.108383>> Connected to 127.0.0.1:1552
+<<2021-05-11 22:36:59.956816>> Accepting data: try:
+<<2021-05-11 22:38:17.741330>> Server is starting.
+<<2021-05-11 22:38:26.751571>> Listening to the port (9090)
+<<2021-05-11 22:38:43.967850>> Connected to 127.0.0.1:1564
+<<2021-05-11 22:39:26.301218>> Accepting data: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 22:42:37.009265>> Server is starting.
+<<2021-05-11 22:42:45.827030>> Listening to the port (9090)
+<<2021-05-11 22:42:50.345537>> Connected to 127.0.0.1:1584
+<<2021-05-11 22:42:59.260491>> Accepting data: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 22:43:29.595351>> Server is starting.
+<<2021-05-11 22:43:38.367644>> Listening to the port (9090)
+<<2021-05-11 22:43:41.603885>> Connected to 127.0.0.1:1591
+<<2021-05-11 22:43:48.046220>> Accepting data: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 22:43:48.046220>> Sending data: None
+<<2021-05-11 22:44:04.380316>> Accepting data: ls
+<<2021-05-11 22:44:04.380316>> Sending data: 'file.txt', 'papka'
+<<2021-05-11 22:52:19.093095>> Closing connection.
+<<2021-05-11 22:52:33.627817>> Server is starting.
+<<2021-05-11 22:52:36.892898>> Listening to the port (9090)
+<<2021-05-11 22:52:45.079368>> Connected to 127.0.0.1:1617
+<<2021-05-11 22:52:49.847485>> Home directory saved: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 22:52:49.847485>> Accepting data: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 22:52:49.847485>> Sending data: Home directory saved: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 22:52:53.707358>> Accepting data: ls
+<<2021-05-11 22:52:53.711365>> Sending data: 'file.txt', 'papka'
+<<2021-05-11 22:53:06.290110>> Accepting data: help
+<<2021-05-11 22:53:06.294105>> Sending data:             "cd": "Перемещение между папками",
+            "ls": "Вывод содержимого текущей папки на экран",
+            "mkdir": "Создание папки",
+            "rmdir": "Удаление папки",
+            "create": "Создание файла",
+            "rename": "Переименование файла/папки",
+            "read": "Чтение файла",
+            "remove": "Удаление файла",
+            "copy": "Копирование файла/папки",
+            "move": "Перемещение файла/папки",
+            "write": "Запись в файл"
+        
+<<2021-05-11 22:53:24.926753>> Client disconnected
+<<2021-05-11 22:53:24.926753>> Listening to the port (9090)
+<<2021-05-11 22:54:32.245374>> Connected to 127.0.0.1:1638
+<<2021-05-11 22:54:36.012989>> Closing connection.
+<<2021-05-11 22:56:02.324008>> Server is starting.
+<<2021-05-11 22:56:03.994342>> Listening to the port (9090)
+<<2021-05-11 22:56:57.120959>> Connected to 127.0.0.1:1643
+<<2021-05-11 22:57:22.273310>> Home directory saved: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 22:57:22.275674>> Accepting data: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 22:57:22.275674>> Sending data: Home directory saved: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 22:57:33.138514>> Accepting data: ls
+<<2021-05-11 22:57:33.138514>> Sending data: 'file.txt', 'papka'
+<<2021-05-11 22:57:56.220041>> Accepting data: help
+<<2021-05-11 22:57:56.220041>> Sending data:       "cd": "Перемещение между папками",
+                "ls": "Вывод содержимого текущей папки на экран",
+                "mkdir": "Создание папки",
+                "rmdir": "Удаление папки",
+                "create": "Создание файла",
+                "rename": "Переименование файла/папки",
+                "read": "Чтение файла",
+                "remove": "Удаление файла",
+                "copy": "Копирование файла/папки",
+                "move": "Перемещение файла/папки",
+                "write": "Запись в файл"
+        
+<<2021-05-11 23:04:18.022912>> Closing connection.
+<<2021-05-11 23:04:24.079132>> Server is starting.
+<<2021-05-11 23:04:27.103168>> Listening to the port (9090)
+<<2021-05-11 23:04:34.281538>> Connected to 127.0.0.1:1822
+<<2021-05-11 23:04:37.368389>> Not found directory: 
+<<2021-05-11 23:04:37.368389>> Accepting data: dfg
+<<2021-05-11 23:04:37.368389>> Sending data: Not found directory: 
+<<2021-05-11 23:06:02.504687>> Closing connection.
+<<2021-05-11 23:06:07.014781>> Server is starting.
+<<2021-05-11 23:06:09.148238>> Listening to the port (9090)
+<<2021-05-11 23:06:17.484666>> Connected to 127.0.0.1:1828
+<<2021-05-11 23:06:22.470407>> Not found directory: f 
+Try again!
+<<2021-05-11 23:06:22.471427>> Accepting data: f
+<<2021-05-11 23:06:22.472533>> Sending data: Not found directory: f 
+Try again!
+<<2021-05-11 23:06:24.990998>> Not found directory: e 
+Try again!
+<<2021-05-11 23:06:24.990998>> Accepting data: e
+<<2021-05-11 23:06:24.995003>> Sending data: Not found directory: e 
+Try again!
+<<2021-05-11 23:06:29.704027>> Not found directory: af5 
+Try again!
+<<2021-05-11 23:06:29.704027>> Accepting data: af5
+<<2021-05-11 23:06:29.704027>> Sending data: Not found directory: af5 
+Try again!
+<<2021-05-11 23:06:35.973785>> Home directory saved: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 23:06:35.973785>> Accepting data: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 23:06:35.977738>> Sending data: Home directory saved: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 23:06:45.416195>> Accepting data: ok
+<<2021-05-11 23:06:45.420169>> Sending data: None
+<<2021-05-11 23:06:49.902164>> Accepting data: help
+<<2021-05-11 23:06:49.907639>> Sending data:     "cd": "Перемещение между папками",
+                "ls": "Вывод содержимого текущей папки на экран",
+                "mkdir": "Создание папки",
+                "rmdir": "Удаление папки",
+                "create": "Создание файла",
+                "rename": "Переименование файла/папки",
+                "read": "Чтение файла",
+                "remove": "Удаление файла",
+                "copy": "Копирование файла/папки",
+                "move": "Перемещение файла/папки",
+                "write": "Запись в файл"
+        
+<<2021-05-11 23:06:59.862877>> Accepting data: ls
+<<2021-05-11 23:06:59.866939>> Sending data: 'file.txt', 'papka'
+<<2021-05-11 23:07:02.501804>> Accepting data: help
+<<2021-05-11 23:07:02.507423>> Sending data:     "cd": "Перемещение между папками",
+                "ls": "Вывод содержимого текущей папки на экран",
+                "mkdir": "Создание папки",
+                "rmdir": "Удаление папки",
+                "create": "Создание файла",
+                "rename": "Переименование файла/папки",
+                "read": "Чтение файла",
+                "remove": "Удаление файла",
+                "copy": "Копирование файла/папки",
+                "move": "Перемещение файла/папки",
+                "write": "Запись в файл"
+        
+<<2021-05-11 23:11:46.271336>> Closing connection.
+<<2021-05-11 23:11:56.354530>> Server is starting.
+<<2021-05-11 23:11:57.897452>> Listening to the port (9090)
+<<2021-05-11 23:12:08.513903>> Connected to 127.0.0.1:1893
+<<2021-05-11 23:12:14.224898>> Home directory saved: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 23:12:14.224898>> Accepting data: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 23:12:14.228907>> Sending data: Home directory saved: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 23:12:24.258723>> Accepting data: help
+<<2021-05-11 23:12:24.262729>> Sending data:       "cd": "Перемещение между папками",
+                "ls": "Вывод содержимого текущей папки на экран",
+                "mkdir": "Создание папки",
+                "rmdir": "Удаление папки",
+                "create": "Создание файла",
+                "rename": "Переименование файла/папки",
+                "read": "Чтение файла",
+                "remove": "Удаление файла",
+                "copy": "Копирование файла/папки",
+                "move": "Перемещение файла/папки",
+                "write": "Запись в файл"
+        
+<<2021-05-11 23:12:39.884092>> Accepting data: mkdir test
+<<2021-05-11 23:12:39.885156>> Sending data: Ok
+<<2021-05-11 23:12:42.927400>> Accepting data: ls
+<<2021-05-11 23:12:42.927400>> Sending data: 'file.txt', 'papka', 'test'
+<<2021-05-11 23:25:33.629492>> Closing connection.
+<<2021-05-11 23:25:45.466264>> Server is starting.
+<<2021-05-11 23:25:46.833750>> Listening to the port (9090)
+<<2021-05-11 23:25:55.447656>> Connected to 127.0.0.1:1943
+<<2021-05-11 23:26:02.776502>> Home directory saved: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 23:26:02.777499>> Accepting data: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 23:26:02.778493>> Sending data: Home directory saved: C:\Users\simon\OneDrive\Desktop\main
+<<2021-05-11 23:26:05.103717>> Accepting data: ls
+<<2021-05-11 23:26:05.104713>> Sending data: 'file.txt', 'papka', 'test'
+<<2021-05-11 23:26:18.462250>> Accepting data: remove file.txt
+<<2021-05-11 23:26:18.463250>> Sending data: Ok
+<<2021-05-11 23:26:20.095146>> Accepting data: ls
+<<2021-05-11 23:26:20.096147>> Sending data: 'papka', 'test'
+<<2021-05-11 23:26:53.470644>> Accepting data: rename test tests
+<<2021-05-11 23:26:53.471645>> Sending data: Ok
+<<2021-05-11 23:26:54.885892>> Accepting data: ls
+<<2021-05-11 23:26:54.886886>> Sending data: 'papka', 'tests'
+<<2021-05-11 23:27:18.768331>> Accepting data: rmdir papka
+<<2021-05-11 23:27:18.769336>> Sending data: Ok
+<<2021-05-11 23:27:39.421078>> Accepting data: ls
+<<2021-05-11 23:27:39.422073>> Sending data: 'tests'
+<<2021-05-11 23:27:46.793473>> Accepting data: mkdir new
+<<2021-05-11 23:27:46.794469>> Sending data: Ok
+<<2021-05-11 23:27:48.260347>> Accepting data: ls
+<<2021-05-11 23:27:48.261349>> Sending data: 'new', 'tests'
+<<2021-05-11 23:29:45.130030>> Closing connection.
